@@ -1,5 +1,6 @@
 <?php
-namespace Vmasciotta\ProvinceItaliane\Setup;
+
+namespace Aune\ProvinceItaliane\Setup;
 
 use Magento\Directory\Helper\Data;
 use Magento\Framework\Setup\InstallDataInterface;
