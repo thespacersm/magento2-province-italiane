@@ -1,10 +1,10 @@
 # Magento2 Province Italiane
 Modulo per l'installazione delle province italiane in Magento 2
 
-[![Latest Stable Version](https://poser.pugx.org/aune-io/magento2-product-category-url-fix/v/stable)](https://packagist.org/packages/aune-io/magento2-product-category-url-fix)
-[![Latest Unstable Version](https://poser.pugx.org/aune-io/magento2-product-category-url-fix/v/unstable)](https://packagist.org/packages/aune-io/magento2-product-category-url-fix)
-[![Total Downloads](https://poser.pugx.org/aune-io/magento2-product-category-url-fix/downloads)](https://packagist.org/packages/aune-io/magento2-product-category-url-fix)
-[![License](https://poser.pugx.org/aune-io/magento2-product-category-url-fix/license)](https://packagist.org/packages/aune-io/magento2-product-category-url-fix)
+[![Latest Stable Version](https://poser.pugx.org/aune-io/magento2-province-italiane/v/stable)](https://packagist.org/packages/aune-io/magento2-province-italiane)
+[![Latest Unstable Version](https://poser.pugx.org/aune-io/magento2-province-italiane/v/unstable)](https://packagist.org/packages/aune-io/magento2-province-italiane)
+[![Total Downloads](https://poser.pugx.org/aune-io/magento2-province-italiane/downloads)](https://packagist.org/packages/aune-io/magento2-province-italiane)
+[![License](https://poser.pugx.org/aune-io/magento2-province-italiane/license)](https://packagist.org/packages/aune-io/magento2-province-italiane)
 
 ## System requirements
 This extension supports the following versions of Magento:
