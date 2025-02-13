@@ -1,9 +1,6 @@
 {
   "name": "aune-io/magento2-province-italiane",
   "description": "Modulo per l'installazione delle province italiane in Magento 2",
-  "require": {
-    "magento/module-directory": "100.1.*|100.2.*|100.3.*"
-  },
   "type": "magento2-module",
   "license": [
     "OSL-3.0"
